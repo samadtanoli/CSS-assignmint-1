@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    background-color: cornflowerblue;
+    text-decoration: underline;
+}
+
+.para { 
+    color: blueviolet;
+}
+.two{
+    color: yellowgreen;
+   background-color: yellow;
+}
+.three{
+    background-color: thistle;
+}
